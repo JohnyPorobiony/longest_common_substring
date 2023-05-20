@@ -1,2 +1,3 @@
 # longest_common_substring
-Longest common substring finding algorithm
+
+An algorithm that finds the longest common substring from the list of given words
